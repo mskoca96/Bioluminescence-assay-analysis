@@ -1,5 +1,5 @@
 datadirectory="D:/yüksek lisans/Thesis/bioluminescens" # directory where data file is
-datafilename="p_series.csv" #CSV datafile
+datafilename="p_series_48h.csv" #CSV datafile
 #times in the first column, data in subsequent columns
 #first row is asumed to be sample names
 # (for the corresponding column) of the form name_replicate# ..ie Bmal_2
